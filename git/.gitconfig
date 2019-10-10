@@ -1,0 +1,12 @@
+[user]
+	email = btmoore40@gmail.com
+	name = Ben Moore
+
+[core]
+  editor = vim
+
+[alias]
+  a = add
+  p = push
+  b = branch
+  s = status
